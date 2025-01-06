@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0775f2e.css",
+    "main.js": "/static/js/main.d56981fa.js",
+    "static/js/453.f2d88811.chunk.js": "/static/js/453.f2d88811.chunk.js",
+    "static/media/GowunDodum-Regular.ttf": "/static/media/GowunDodum-Regular.af5304a39dc307a26989.ttf",
+    "static/media/main1.jpg": "/static/media/main1.861a8babea7c7389c434.jpg",
+    "static/media/main5.jpg": "/static/media/main5.9958ff0b911bd01feefe.jpg",
+    "static/media/flowers.png": "/static/media/flowers.d6f915a1ac8567f3f257.png",
+    "static/media/main10.jpg": "/static/media/main10.44fddb08951563c5d098.jpg",
+    "static/media/main6.jpg": "/static/media/main6.aba04c9c1776b9e2c54a.jpg",
+    "static/media/main4.jpg": "/static/media/main4.276a084210453389681a.jpg",
+    "static/media/main9.jpg": "/static/media/main9.6f9df4311d2bbdae4c36.jpg",
+    "static/media/back1.jpg": "/static/media/back1.7d9bafd5b9d777c4394a.jpg",
+    "static/media/main3.jpg": "/static/media/main3.eeeaf6df85a2bc332bc4.jpg",
+    "static/media/main2.jpg": "/static/media/main2.70865e8e6647efbaae2b.jpg",
+    "static/media/main8.jpg": "/static/media/main8.268e6134435b84b6d1db.jpg",
+    "static/media/main7.jpg": "/static/media/main7.1edff1d87fa93e9f41c3.jpg",
+    "static/media/logo4.png": "/static/media/logo4.ccdc8763682af5810fce.png",
+    "static/media/back3.png": "/static/media/back3.02549a06f1680c8fadae.png",
+    "static/media/defaultImage.png": "/static/media/defaultImage.dc3f3be43bf915f0d62d.png",
+    "static/media/imageno.PNG": "/static/media/imageno.5881c9c1736963fe03fd.PNG",
+    "index.html": "/index.html",
+    "main.d0775f2e.css.map": "/static/css/main.d0775f2e.css.map",
+    "main.d56981fa.js.map": "/static/js/main.d56981fa.js.map",
+    "453.f2d88811.chunk.js.map": "/static/js/453.f2d88811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0775f2e.css",
+    "static/js/main.d56981fa.js"
+  ]
+}
