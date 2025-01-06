@@ -1,1 +1,1 @@
-![Uploading 1.PNG…]()
+![이미지 설명](https://example.com/image.png)
