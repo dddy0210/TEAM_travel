@@ -1,10 +1,7 @@
 
 # 시골쥐의 어디가쥐 
 
-이 프로젝트는 [프로젝트에 대한 간략한 설명 또는 목적](https://example.com)입니다.
-
-![프로젝트 이미지](https://example.com/project-image.png)
-
+[프로젝트 사이트](http://www.countryrat.site)
 ## 목차
 
 1. [소개](#소개)
