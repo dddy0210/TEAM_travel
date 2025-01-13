@@ -1,7 +1,7 @@
 
 # 시골쥐의 어디가쥐 
 
-[프로젝트 사이트](http://www.countryrat.site)
+[프로젝트 사이트](https://www.countryrat.site)
 
 ## :computer:소개
 
