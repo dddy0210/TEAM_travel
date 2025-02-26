@@ -23,9 +23,4 @@
 * 데이터베이스: Mysql,RDS,
 * 배포: AWS,EC2,Nginx
 
-## ❤️로그인 계정
-
-ID : dddy0210@naver.com<br>
-PW : 1234567!
-
 
